@@ -22,3 +22,18 @@ Inspiration taken from:
 ![export from P5.js pepsi inspired logo](logo_2.png)  
 
 
+## ChapterTwo
+
+### Tasks
+_go to portal for the tasks, and more details_
+
+### Notes
+Base First Example Image
+
+### Output
+
+-> https://editor.p5js.org/akumagamo/sketches/nU9LfNeHY
+
+![Non perfect recreation](submission_2.png)
+
+
