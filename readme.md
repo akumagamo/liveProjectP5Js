@@ -10,29 +10,29 @@ Here the task for each chapter will listed and optional Notes / Information
 _go to portal for the tasks, and more details_
 
 ### Notes
-Inspiration taken from:
--> https://www.behance.net/gallery/16259097/TRUEF-Mixed-Logos-Marks 
--> https://en.99designs.nl/blog/tips/types-of-logos/
+Inspiration taken from:  
+-> https://www.behance.net/gallery/16259097/TRUEF-Mixed-Logos-Marks   
+-> https://en.99designs.nl/blog/tips/types-of-logos/  
 
 ### Output
 
--> Knight/Cities/Challenge https://editor.p5js.org/akumagamo/sketches/iHLJuSjgS _(was pretty easy so I made are more challenging one)_   
-![export from P5.js Knight/Cities/challenge inspired logo](logo_1.png)  
--> Pepsi Logo https://editor.p5js.org/akumagamo/sketches/DrGMIXZHw _(has some nasty workaround to cleanup the  fill, but will be fixed, may be;-))_  
-![export from P5.js pepsi inspired logo](logo_2.png)  
+-> Knight/Cities/Challenge https://editor.p5js.org/akumagamo/sketches/iHLJuSjgS _(was pretty easy so I made are more challenging one)_     
+![export from P5.js Knight/Cities/challenge inspired logo](logo_1.png)   
+-> Pepsi Logo https://editor.p5js.org/akumagamo/sketches/DrGMIXZHw _(has some nasty workaround to cleanup the  fill, but will be fixed, may be;-))_    
+![export from P5.js pepsi inspired logo](logo_2.png)   
 
 
 ## ChapterTwo
 
 ### Tasks
-_go to portal for the tasks, and more details_
+_go to portal for the tasks, and more details_  
 
 ### Notes
-Base First Example Image
+Base First Example Image  
 
 ### Output
 
--> https://editor.p5js.org/akumagamo/sketches/nU9LfNeHY
+-> https://editor.p5js.org/akumagamo/sketches/nU9LfNeHY  
 
 ![Non perfect recreation](submission_2.png)
 
