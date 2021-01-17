@@ -50,7 +50,7 @@ _go to portal for the tasks, and more details_
 
 ![Non perfect recreation, but animated](submission_3.png)  
 
-[Short WebP Animation Video](submission_3.webm)  
+[Short WebM Animation Video](submission_3.webm)  
 
 ## ChapterFour
 
@@ -98,4 +98,6 @@ Base Song from https://www.unminus.com/, but shortend [link to shortend Song](Ho
 
 ![Start Image](submission_5_2.png)  
 ![In Progress Image](submission_5_1.png)  
+
+[Short WebM Animation Video](submission_5.webm)   
 
