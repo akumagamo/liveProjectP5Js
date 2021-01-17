@@ -52,8 +52,6 @@ _go to portal for the tasks, and more details_
 
 [Short WebP Animation Video](submission_3.webm)
 
-
-
 ## ChapterFour
 
 
