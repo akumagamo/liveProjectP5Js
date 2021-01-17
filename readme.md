@@ -40,10 +40,42 @@ Base First Example Image
 ## ChapterThree
 
 
+### Tasks
+_go to portal for the tasks, and more details_  
+
+
 ### Output
 
 ->  https://editor.p5js.org/akumagamo/sketches/kRJIKp4Dz 
 
 ![Non perfect recreation, but animated](submission_3.png)
 
-[Short WebP Animation Video](submission_3.webp)
+[Short WebP Animation Video](submission_3.webm)
+
+
+
+## ChapterFour
+
+
+### Tasks
+_go to portal for the tasks, and more details_  
+
+### Notes
+
+Base Image
+
+![Base Image from unsplash](rendiansyah-Gh6vZQLjg5k-unsplash.jpg)
+
+<span>Photo by <a href="https://unsplash.com/@rendiansyah?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Rendiansyah</a> on <a href="https://unsplash.com/s/photos/dancer-in-the-dark?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+### Output
+
+-> https://editor.p5js.org/akumagamo/sketches/zdUjQGf7-
+
+
+![flashlight](submission_4_1.png)
+
+![flicker](submission_4_2.png)
+
+
