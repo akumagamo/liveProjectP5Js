@@ -37,3 +37,13 @@ Base First Example Image
 ![Non perfect recreation](submission_2.png)
 
 
+## ChapterThree
+
+
+### Output
+
+->  https://editor.p5js.org/akumagamo/sketches/kRJIKp4Dz 
+
+![Non perfect recreation, but animated](submission_3.png)
+
+[Short WebP Animation Video](submission_3.webp)
