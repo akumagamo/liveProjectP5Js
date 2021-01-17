@@ -46,4 +46,4 @@ Base First Example Image
 
 ![Non perfect recreation, but animated](submission_3.png)
 
-[Short WebP Animation Video](submission_3.webp)
+[Short WebP Animation Video](submission_3.webm)
